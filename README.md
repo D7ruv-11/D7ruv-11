@@ -14,7 +14,7 @@
 - 💻 I love to **reverse-engineer**, **learn AI/ML**, and build cool side projects  
 - 🚀 Currently working on: **Zenith AGI**, combining neuroscience + robotics  
 - 🌱 I’m learning **Python, ML, Arduino, and neural networks**  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/chonde-dhurv-405) 
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/chonde-dhurv-40512a362) 
 
 ---
 
@@ -48,7 +48,7 @@
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chonde-dhruv-405)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chonde-dhruv-40512a362)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:official.dhruv.nextgen@gmail.com)
 
 ---
